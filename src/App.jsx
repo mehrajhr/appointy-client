@@ -13,7 +13,7 @@ import Footer from './components/Footer'
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Verify from './pages/Verify'
-
+set up app routing with main pages and layout
 const App = () => {
   return (
     <div className='mx-4 sm:mx-[10%]'>
